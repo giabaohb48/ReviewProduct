@@ -1,2 +1,2 @@
 # ReviewProduct
- evaluate product on Shopee by comment
+ evaluate product on Shopee by comment's buyer
